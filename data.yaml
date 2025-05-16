@@ -1,0 +1,7 @@
+train: F:\Project\Detection_yolo\enhanced_dataset\images\train
+val: F:\Project\Detection_yolo\enhanced_dataset\images\val
+# test: path/to/dataset/images/test  # Optional, for evaluation only
+
+nc: 1  # Number of classes (since you have only 'signboard')
+names: ["signboard"]  # Class name
+
