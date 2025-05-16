@@ -5,4 +5,4 @@ _______
 
 1. Balance the training Dataset using augmentaion
 2. Enhance the training and testing images using the pre-processing <mark>Final__medianFilter.ipynb</mark>
-3. 
+3. Last check it by the <mark>YOLO_imp</mark>
